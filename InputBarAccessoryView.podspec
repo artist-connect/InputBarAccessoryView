@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
     s.swift_versions = '5.5'
 
     # 2 - Version
-    s.version = "5.5.0"
+    s.version = "6.1.0"
 
     # 3 - License
     s.license = { :type => "MIT", :file => "LICENSE" }
